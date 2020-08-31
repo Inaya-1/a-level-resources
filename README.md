@@ -9,6 +9,7 @@ This is a collection of all the flashcards and files I created during my A-level
   * [Loading the Flashcards into Anki](#loading-the-flashcards-into-anki)
   * [Exporting the Flashcards from Anki](#exporting-the-flashcards-from-anki)
   * [Making a Pull Request](#making-a-pull-request)
+- [Roadmap](#roadmap)
 
 ## Downloading the Files
 You can find the download page under [releases](https://github.com/RehmanAmjad/a-level-resources/releases) on the right hand side of the page. Make sure you download the latest release by pressing the first  `Source code` button on the page. You can then extract the folder and files and get studying!
@@ -50,3 +51,16 @@ _OCR Chemistry will be used as an example here._
 Congratulations 🎉 you just contributed and made these resources so much better! If I ever meet you in person then I will buy you a coffee (or any other beverage). 
 
 _Note that if you're confident with JSON then you can edit the JSON files directy rather than making importing into Anki, making changes, then exporting. Just be sure to check that it can still be imported after you have made the changes._
+
+## Roadmap
+### Phase 1 - make Anki only
+_To avoid having to manage two versions of the same flashcard, one in word document form and another in Anki form (which have fallen out of sync slightly), we need to delete the word document form but keep the PDF's._
+
+1. Wait for [PDF Glossary Exporter](https://ankiweb.net/shared/info/1334168683) to come out for Anki 2.1.
+2. Tag all cards corresponding to the specification.
+3. Move cards into seperate decks according to the specification.
+4. Export each module in the specification as a seperate PDF.
+5. Delete all the Word documents.
+
+### Phase 2 - continual improvements
+Look through a few flashcards on Anki every weekend and make small improvements.
