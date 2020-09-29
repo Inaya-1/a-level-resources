@@ -53,7 +53,7 @@ Congratulations 🎉 you just contributed and made these resources so much bette
 _Note that if you're confident with JSON then you can edit the JSON files directy rather than making importing into Anki, making changes, then exporting. Just be sure to check that it can still be imported after you have made the changes._
 
 ## Roadmap
-### Phase 1
+### Phase 1 - AS & A2 split
 1. Split the decks into AS, A2, and AS + A2 for Maths and Furhter Maths.
 2. Check that all the decks are in the correct positions.
 3. Re-add CrowdAnki for all new decks.
