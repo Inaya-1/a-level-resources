@@ -53,7 +53,12 @@ Congratulations 🎉 you just contributed and made these resources so much bette
 _Note that if you're confident with JSON then you can edit the JSON files directy rather than making importing into Anki, making changes, then exporting. Just be sure to check that it can still be imported after you have made the changes._
 
 ## Roadmap
-### Phase 1 - make Anki only
+### Phase 1
+1. Split the decks into AS, A2, and AS + A2 for Maths and Furhter Maths.
+2. Check that all the decks are in the correct positions.
+3. Re-add CrowdAnki for all new decks.
+
+### Phase 2 - make Anki only
 _To avoid having to manage two versions of the same flashcard, one in word document form and another in Anki form (which have fallen out of sync slightly), we need to delete the word document form but keep the PDF's._
 
 1. Wait for [PDF Glossary Exporter](https://ankiweb.net/shared/info/1334168683) to come out for Anki 2.1.
@@ -62,5 +67,5 @@ _To avoid having to manage two versions of the same flashcard, one in word docum
 4. Export each module in the specification as a seperate PDF.
 5. Delete all the Word documents.
 
-### Phase 2 - continual improvements
+### Phase 3 - continual improvements
 Look through a few flashcards on Anki every weekend and make small improvements.
